@@ -3,7 +3,7 @@
   "name": "rjs-p19-student-profile",
   "version": "1.0.0",
   "private": true,
-  "homepage": "https://2024-bca-a-harish.github.io/rjs-p19/",
+  "homepage": "https://2024-bcaa-akash.github.io/rjs-p19/",
   "dependencies": {
     "@testing-library/jest-dom": "^6.6.3",
     "@testing-library/react": "^16.3.0",
